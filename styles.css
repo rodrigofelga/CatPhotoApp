@@ -48,3 +48,13 @@ img {
   margin-right: auto;
   width: 50%;
 }
+
+li {
+    display: list-item;
+    text-align: -webkit-match-parent;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    max-width: 20px;
+  
+}
